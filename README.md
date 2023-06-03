@@ -41,7 +41,8 @@ git clone https://github.com/your-username/codepen-clone.git
 
 
 
-**Acknowledgements**
+  **Acknowledgements**
 
-This project is inspired by and aims to replicate the core functionalities of Codepen. Special thanks to the Codepen team for their innovation and contribution to the developer community.
+This project is inspired by and aims to replicate the core functionalities of Codepen.
+
 
